@@ -9,6 +9,5 @@ I'm Nodar - Data Scientist and Machine Learning Engineer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Okroshiashvili&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Okroshiashvili)  
 
 ![Profile views](https://gpvc.arturio.dev/Okroshiashvili)  
