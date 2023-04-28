@@ -10,11 +10,11 @@ I'm Nodar - Data Scientist and Machine Learning Engineer
 
 <div align="left"> 
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Okroshiashvili&show_icons=true&theme=transparent&count_private=true&line_height=40" />
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Okroshiashvili&show_icons=true&theme=transparent&count_private=true&line_height=40" />
   </a>
  
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okroshiashvili&hide=html,scss,jupyter%20notebook,smarty"/>
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Okroshiashvili&hide=html,scss,jupyter%20notebook,smarty"/>
     </a>
  
 </div
