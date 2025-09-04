@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm Nodar - Data Scientist and Data Engineer
+I'm Nodar - Data Software Engineer
 
 
 ### Contact Me
