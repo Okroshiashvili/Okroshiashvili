@@ -10,14 +10,3 @@ I'm Nodar - Data Software Engineer
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/c8c71748-320a-4200-8a47-1814dfeb0037/thumbnail" >
 </p>
-
-<div align="left"> 
-  <a href="">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Okroshiashvili&show_icons=true&theme=transparent&count_private=true&line_height=40" />
-  </a>
- 
-  <a href="">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Okroshiashvili&hide=html,scss,jupyter%20notebook,smarty"/>
-    </a>
- 
-</div
